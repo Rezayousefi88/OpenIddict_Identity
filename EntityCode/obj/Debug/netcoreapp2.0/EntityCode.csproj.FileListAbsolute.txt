@@ -1,0 +1,32 @@
+D:\Learning\ASP Core\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.deps.json
+D:\Learning\ASP Core\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.runtimeconfig.json
+D:\Learning\ASP Core\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.runtimeconfig.dev.json
+D:\Learning\ASP Core\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.dll
+D:\Learning\ASP Core\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.pdb
+D:\Learning\ASP Core\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.dll
+D:\Learning\ASP Core\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.pdb
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.deps.json
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.runtimeconfig.json
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.runtimeconfig.dev.json
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.dll
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.pdb
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.dll
+D:\Learning\ASP Core\Interview01\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.pdb
+F:\zizi\Interview02\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.deps.json
+F:\zizi\Interview02\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.runtimeconfig.json
+F:\zizi\Interview02\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.runtimeconfig.dev.json
+F:\zizi\Interview02\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.dll
+F:\zizi\Interview02\Interview\EntityCode\bin\Debug\netcoreapp2.0\EntityCode.pdb
+F:\zizi\Interview02\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.csproj.CoreCompileInputs.cache
+F:\zizi\Interview02\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.AssemblyInfoInputs.cache
+F:\zizi\Interview02\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.AssemblyInfo.cs
+F:\zizi\Interview02\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.dll
+F:\zizi\Interview02\Interview\EntityCode\obj\Debug\netcoreapp2.0\EntityCode.pdb

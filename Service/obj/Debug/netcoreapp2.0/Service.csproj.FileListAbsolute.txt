@@ -1,0 +1,54 @@
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\Service.dll
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\Service.pdb
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\Common.dll
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\DTO.dll
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\EntityCode.dll
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\Repository.dll
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\Common.pdb
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\DTO.pdb
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\EntityCode.pdb
+D:\Learning\ASP Core\Interview\Service\bin\Debug\netcoreapp2.0\Repository.pdb
+D:\Learning\ASP Core\Interview\Service\obj\Debug\netcoreapp2.0\Service.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete
+D:\Learning\ASP Core\Interview\Service\obj\Debug\netcoreapp2.0\Service.dll
+D:\Learning\ASP Core\Interview\Service\obj\Debug\netcoreapp2.0\Service.pdb
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\Service.dll
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\Service.pdb
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\Common.dll
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\DTO.dll
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\EntityCode.dll
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\Repository.dll
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\Common.pdb
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\DTO.pdb
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\EntityCode.pdb
+D:\Learning\ASP Core\Interview01\Interview\Service\bin\Debug\netcoreapp2.0\Repository.pdb
+D:\Learning\ASP Core\Interview01\Interview\Service\obj\Debug\netcoreapp2.0\Service.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview01\Interview\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview01\Interview\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete
+D:\Learning\ASP Core\Interview01\Interview\Service\obj\Debug\netcoreapp2.0\Service.dll
+D:\Learning\ASP Core\Interview01\Interview\Service\obj\Debug\netcoreapp2.0\Service.pdb
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\Service.dll
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\Service.pdb
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\Common.dll
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\DTO.dll
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\EntityCode.dll
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\Repository.dll
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\Common.pdb
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\DTO.pdb
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\EntityCode.pdb
+F:\zizi\Interview02\Interview\Service\bin\Debug\netcoreapp2.0\Repository.pdb
+F:\zizi\Interview02\Interview\Service\obj\Debug\netcoreapp2.0\Service.csprojAssemblyReference.cache
+F:\zizi\Interview02\Interview\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+F:\zizi\Interview02\Interview\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+F:\zizi\Interview02\Interview\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+F:\zizi\Interview02\Interview\Service\obj\Debug\netcoreapp2.0\Service.csproj.CopyComplete
+F:\zizi\Interview02\Interview\Service\obj\Debug\netcoreapp2.0\Service.dll
+F:\zizi\Interview02\Interview\Service\obj\Debug\netcoreapp2.0\Service.pdb

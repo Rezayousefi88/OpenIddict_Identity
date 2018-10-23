@@ -1,0 +1,36 @@
+D:\Learning\ASP Core\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.deps.json
+D:\Learning\ASP Core\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.dll
+D:\Learning\ASP Core\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.pdb
+D:\Learning\ASP Core\Interview\DTO\bin\Debug\netcoreapp2.0\Common.dll
+D:\Learning\ASP Core\Interview\DTO\bin\Debug\netcoreapp2.0\Common.pdb
+D:\Learning\ASP Core\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csproj.CopyComplete
+D:\Learning\ASP Core\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.dll
+D:\Learning\ASP Core\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.pdb
+D:\Learning\ASP Core\Interview01\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.deps.json
+D:\Learning\ASP Core\Interview01\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.dll
+D:\Learning\ASP Core\Interview01\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.pdb
+D:\Learning\ASP Core\Interview01\Interview\DTO\bin\Debug\netcoreapp2.0\Common.dll
+D:\Learning\ASP Core\Interview01\Interview\DTO\bin\Debug\netcoreapp2.0\Common.pdb
+D:\Learning\ASP Core\Interview01\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview01\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview01\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csproj.CopyComplete
+D:\Learning\ASP Core\Interview01\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.dll
+D:\Learning\ASP Core\Interview01\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.pdb
+F:\zizi\Interview02\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.deps.json
+F:\zizi\Interview02\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.dll
+F:\zizi\Interview02\Interview\DTO\bin\Debug\netcoreapp2.0\DTO.pdb
+F:\zizi\Interview02\Interview\DTO\bin\Debug\netcoreapp2.0\Common.dll
+F:\zizi\Interview02\Interview\DTO\bin\Debug\netcoreapp2.0\Common.pdb
+F:\zizi\Interview02\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csprojAssemblyReference.cache
+F:\zizi\Interview02\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csproj.CoreCompileInputs.cache
+F:\zizi\Interview02\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfoInputs.cache
+F:\zizi\Interview02\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.AssemblyInfo.cs
+F:\zizi\Interview02\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.csproj.CopyComplete
+F:\zizi\Interview02\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.dll
+F:\zizi\Interview02\Interview\DTO\obj\Debug\netcoreapp2.0\DTO.pdb

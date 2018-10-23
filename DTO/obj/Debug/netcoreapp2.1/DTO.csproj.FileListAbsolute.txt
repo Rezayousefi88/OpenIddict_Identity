@@ -1,0 +1,24 @@
+D:\Interview 97\Interview\DTO\bin\Debug\netcoreapp2.1\DTO.deps.json
+D:\Interview 97\Interview\DTO\bin\Debug\netcoreapp2.1\DTO.dll
+D:\Interview 97\Interview\DTO\bin\Debug\netcoreapp2.1\DTO.pdb
+D:\Interview 97\Interview\DTO\bin\Debug\netcoreapp2.1\Common.dll
+D:\Interview 97\Interview\DTO\bin\Debug\netcoreapp2.1\Common.pdb
+D:\Interview 97\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.csprojAssemblyReference.cache
+D:\Interview 97\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.csproj.CoreCompileInputs.cache
+D:\Interview 97\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfoInputs.cache
+D:\Interview 97\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfo.cs
+D:\Interview 97\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.csproj.CopyComplete
+D:\Interview 97\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.dll
+D:\Interview 97\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\bin\Debug\netcoreapp2.1\DTO.deps.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.csprojAssemblyReference.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfo.cs
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.csproj.CopyComplete
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\DTO\obj\Debug\netcoreapp2.1\DTO.pdb

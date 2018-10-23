@@ -1,0 +1,18 @@
+D:\Interview 97\Interview\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+D:\Interview 97\Interview\Common\bin\Debug\netcoreapp2.1\Common.dll
+D:\Interview 97\Interview\Common\bin\Debug\netcoreapp2.1\Common.pdb
+D:\Interview 97\Interview\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+D:\Interview 97\Interview\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+D:\Interview 97\Interview\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+D:\Interview 97\Interview\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+D:\Interview 97\Interview\Common\obj\Debug\netcoreapp2.1\Common.dll
+D:\Interview 97\Interview\Common\obj\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\obj\Debug\netcoreapp2.1\Common.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Common\obj\Debug\netcoreapp2.1\Common.pdb

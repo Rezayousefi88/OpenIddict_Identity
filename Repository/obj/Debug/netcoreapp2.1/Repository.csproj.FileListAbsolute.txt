@@ -1,0 +1,28 @@
+D:\Interview 97\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+D:\Interview 97\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+D:\Interview 97\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+D:\Interview 97\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+D:\Interview 97\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\Interview 97\Interview\Repository\bin\Debug\netcoreapp2.1\EntityCode.dll
+D:\Interview 97\Interview\Repository\bin\Debug\netcoreapp2.1\EntityCode.pdb
+D:\Interview 97\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+D:\Interview 97\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+D:\Interview 97\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+D:\Interview 97\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+D:\Interview 97\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+D:\Interview 97\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+D:\Interview 97\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\bin\Debug\netcoreapp2.1\EntityCode.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\bin\Debug\netcoreapp2.1\EntityCode.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Repository\obj\Debug\netcoreapp2.1\Repository.pdb

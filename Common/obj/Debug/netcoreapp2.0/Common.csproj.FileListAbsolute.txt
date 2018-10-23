@@ -1,0 +1,26 @@
+D:\Learning\ASP Core\Interview\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+D:\Learning\ASP Core\Interview\Common\bin\Debug\netcoreapp2.0\Common.dll
+D:\Learning\ASP Core\Interview\Common\bin\Debug\netcoreapp2.0\Common.pdb
+D:\Learning\ASP Core\Interview\Common\obj\Debug\netcoreapp2.0\Common.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview\Common\obj\Debug\netcoreapp2.0\Common.dll
+D:\Learning\ASP Core\Interview\Common\obj\Debug\netcoreapp2.0\Common.pdb
+D:\Learning\ASP Core\Interview01\Interview\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+D:\Learning\ASP Core\Interview01\Interview\Common\bin\Debug\netcoreapp2.0\Common.dll
+D:\Learning\ASP Core\Interview01\Interview\Common\bin\Debug\netcoreapp2.0\Common.pdb
+D:\Learning\ASP Core\Interview01\Interview\Common\obj\Debug\netcoreapp2.0\Common.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview01\Interview\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview01\Interview\Common\obj\Debug\netcoreapp2.0\Common.dll
+D:\Learning\ASP Core\Interview01\Interview\Common\obj\Debug\netcoreapp2.0\Common.pdb
+F:\zizi\Interview02\Interview\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+F:\zizi\Interview02\Interview\Common\bin\Debug\netcoreapp2.0\Common.dll
+F:\zizi\Interview02\Interview\Common\bin\Debug\netcoreapp2.0\Common.pdb
+F:\zizi\Interview02\Interview\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+F:\zizi\Interview02\Interview\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+F:\zizi\Interview02\Interview\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+F:\zizi\Interview02\Interview\Common\obj\Debug\netcoreapp2.0\Common.dll
+F:\zizi\Interview02\Interview\Common\obj\Debug\netcoreapp2.0\Common.pdb

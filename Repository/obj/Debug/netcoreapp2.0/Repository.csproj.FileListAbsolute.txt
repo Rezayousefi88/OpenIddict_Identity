@@ -1,0 +1,42 @@
+D:\Learning\ASP Core\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+D:\Learning\ASP Core\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.runtimeconfig.json
+D:\Learning\ASP Core\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.runtimeconfig.dev.json
+D:\Learning\ASP Core\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+D:\Learning\ASP Core\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+D:\Learning\ASP Core\Interview\Repository\bin\Debug\netcoreapp2.0\EntityCode.dll
+D:\Learning\ASP Core\Interview\Repository\bin\Debug\netcoreapp2.0\EntityCode.pdb
+D:\Learning\ASP Core\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CopyComplete
+D:\Learning\ASP Core\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+D:\Learning\ASP Core\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.pdb
+D:\Learning\ASP Core\Interview01\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+D:\Learning\ASP Core\Interview01\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.runtimeconfig.json
+D:\Learning\ASP Core\Interview01\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.runtimeconfig.dev.json
+D:\Learning\ASP Core\Interview01\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+D:\Learning\ASP Core\Interview01\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+D:\Learning\ASP Core\Interview01\Interview\Repository\bin\Debug\netcoreapp2.0\EntityCode.dll
+D:\Learning\ASP Core\Interview01\Interview\Repository\bin\Debug\netcoreapp2.0\EntityCode.pdb
+D:\Learning\ASP Core\Interview01\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csprojAssemblyReference.cache
+D:\Learning\ASP Core\Interview01\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+D:\Learning\ASP Core\Interview01\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+D:\Learning\ASP Core\Interview01\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CopyComplete
+D:\Learning\ASP Core\Interview01\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+D:\Learning\ASP Core\Interview01\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.pdb
+F:\zizi\Interview02\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+F:\zizi\Interview02\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.runtimeconfig.json
+F:\zizi\Interview02\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.runtimeconfig.dev.json
+F:\zizi\Interview02\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+F:\zizi\Interview02\Interview\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+F:\zizi\Interview02\Interview\Repository\bin\Debug\netcoreapp2.0\EntityCode.dll
+F:\zizi\Interview02\Interview\Repository\bin\Debug\netcoreapp2.0\EntityCode.pdb
+F:\zizi\Interview02\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csprojAssemblyReference.cache
+F:\zizi\Interview02\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+F:\zizi\Interview02\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+F:\zizi\Interview02\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+F:\zizi\Interview02\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CopyComplete
+F:\zizi\Interview02\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+F:\zizi\Interview02\Interview\Repository\obj\Debug\netcoreapp2.0\Repository.pdb

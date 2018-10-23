@@ -1,0 +1,36 @@
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\Service.dll
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\Service.pdb
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\Common.dll
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\DTO.dll
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\EntityCode.dll
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\Repository.dll
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\Common.pdb
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\DTO.pdb
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\EntityCode.pdb
+D:\Interview 97\Interview\Service\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\Interview 97\Interview\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+D:\Interview 97\Interview\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+D:\Interview 97\Interview\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+D:\Interview 97\Interview\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+D:\Interview 97\Interview\Service\obj\Debug\netcoreapp2.1\Service.csproj.CopyComplete
+D:\Interview 97\Interview\Service\obj\Debug\netcoreapp2.1\Service.dll
+D:\Interview 97\Interview\Service\obj\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\Service.deps.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\Service.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\Service.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\Common.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\EntityCode.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\Common.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\EntityCode.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\obj\Debug\netcoreapp2.1\Service.csprojAssemblyReference.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\obj\Debug\netcoreapp2.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfoInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\obj\Debug\netcoreapp2.1\Service.AssemblyInfo.cs
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\obj\Debug\netcoreapp2.1\Service.csproj.CopyComplete
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\obj\Debug\netcoreapp2.1\Service.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\Service\obj\Debug\netcoreapp2.1\Service.pdb

@@ -1,0 +1,22 @@
+D:\Interview 97\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.deps.json
+D:\Interview 97\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.runtimeconfig.json
+D:\Interview 97\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.runtimeconfig.dev.json
+D:\Interview 97\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.dll
+D:\Interview 97\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.pdb
+D:\Interview 97\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.csprojAssemblyReference.cache
+D:\Interview 97\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.csproj.CoreCompileInputs.cache
+D:\Interview 97\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.AssemblyInfoInputs.cache
+D:\Interview 97\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.AssemblyInfo.cs
+D:\Interview 97\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.dll
+D:\Interview 97\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.deps.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.runtimeconfig.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.runtimeconfig.dev.json
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\bin\Debug\netcoreapp2.1\EntityCode.pdb
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.csprojAssemblyReference.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.AssemblyInfoInputs.cache
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.AssemblyInfo.cs
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.dll
+C:\Users\Farshad\Documents\Visual Studio 2017\Projects\Interview\EntityCode\obj\Debug\netcoreapp2.1\EntityCode.pdb
